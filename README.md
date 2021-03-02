@@ -5,5 +5,7 @@
 [Ejercicios de bases de datos](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Ej1_BasesDatos_Equipo_6.pdf)
 
 [Ejercicios Básicos Python](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/Ej_Python_1854568.ipynb)
+
+[Práctica de Limpieza de Datos](https://github.com/antoniolozz/Mineria-de-datos/blob/main/Ej_Limpieza_Equipo6.ipynb)
 # Etapa 2
 # Etapa 3
