@@ -7,5 +7,7 @@
 [Ejercicios Básicos Python](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/Ej_Python_1854568.ipynb)
 
 [Práctica de Limpieza de Datos](https://github.com/antoniolozz/Mineria-de-datos/blob/main/Ej_Limpieza_Equipo6.ipynb)
+
+[Primera Entrega del Proyecto Integrador](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Avance1_PIA_Equipo6.ipynb)
 # Etapa 2
 # Etapa 3
