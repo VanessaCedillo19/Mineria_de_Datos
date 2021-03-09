@@ -8,10 +8,12 @@
 
 [Práctica de Limpieza de Datos](https://github.com/antoniolozz/Mineria-de-datos/blob/main/Ej_Limpieza_Equipo6.ipynb)
 
-[Primera Entrega del Proyecto Integrador](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Avance1_PIA_Equipo6.ipynb)
+[Primera Entrega del PIA](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Avance1_PIA_Equipo6.ipynb)
 # Etapa 2
-[Presentación K Medias](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Presentaci%C3%B3n_K-Medias_Equipo-6.pdf)
+[Presentación](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Presentaci%C3%B3n_K-Medias_Equipo-6.pdf)
 
-[Resultados de Mini Exámen](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Calificaci%C3%B3n_K-Medias_Equipo-6.pdf) 
+[Ejemplo de la Presentación](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/Kmedias.ipynb) 
+
+[Mini Exámen](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Calificaci%C3%B3n_K-Medias_Equipo-6.pdf) 
 
 # Etapa 3
