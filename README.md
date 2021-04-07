@@ -10,10 +10,13 @@
 
 [Primera Entrega del PIA](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Avance1_PIA_Equipo6.ipynb)
 # Etapa 2
+**Presentación K Medias
 [Presentación](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Presentaci%C3%B3n_K-Medias_Equipo-6.pdf)
 
 [Ejemplo de la Presentación](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/Kmedias.ipynb) 
 
 [Mini Exámen](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Calificaci%C3%B3n_K-Medias_Equipo-6.pdf) 
+
+[Mapa Mental 2](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/MapaMental_2_1854568.pdf)
 
 # Etapa 3
