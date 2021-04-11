@@ -19,4 +19,8 @@
 
 [Mapa Mental 2](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/MapaMental_2_1854568.pdf)
 
+[Segundo Avance del PIA](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/AvancePIA_II_Grupo003_Equipo6.ipynb)
+
+[Práctica de Visualización](https://github.com/antoniolozz/Mineria-de-datos/blob/main/Visualizaci%C3%B3n_Equipo6.ipynb)
+
 # Etapa 3
