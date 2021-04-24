@@ -10,7 +10,7 @@
 
 [Primera Entrega del PIA](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Avance1_PIA_Equipo6.ipynb)
 # Etapa 2
-## TÉCNINCAS DE EQUIPO: K-MEDIAS
+##TÉCNINCAS DE EQUIPO: K-MEDIAS
 
 °[Presentación](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/Presentaci%C3%B3n_K-Medias_Equipo-6.pdf)
 
