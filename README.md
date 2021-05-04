@@ -29,3 +29,5 @@
 °[Segundo Avance del PIA (versión 2)](https://github.com/OrlandoC98/MineriaDeDatos_FCFM/blob/main/AvancePIA_II_Grupo003_Equipo6_V2.ipynb)
 
 # Etapa 3
+
+[PIA](https://github.com/VanessaCedillo19/Mineria_de_Datos/blob/main/PIA.pdf)
